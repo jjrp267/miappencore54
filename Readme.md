@@ -4,10 +4,11 @@ app built with React 18 and Symfony 5.4
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use Symfony CLI [symfony](https://symfony.com/download) to install Symfony.
+Use the package manager [yarn](https://yarnpkg.com/) to install React.
 
 ```bash
-composer install
+symfony new --webapp
 yarn install
 ```
 
