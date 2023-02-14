@@ -20,6 +20,12 @@ symfony server:start
 yarn run dev-server
 ```
 
+## web access
+
+```web
+https://localhost:8000/default
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
