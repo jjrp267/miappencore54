@@ -1,6 +1,6 @@
 # Symfony and React
 
-app built with react and Symfony 5.4
+app built with React 18 and Symfony 5.4
 
 ## Installation
 
